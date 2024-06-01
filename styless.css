@@ -1,0 +1,54 @@
+
+*{margin:0;
+padding:0;
+font-family:"century Gothic";
+}
+header{background-image: url("background.jpg.png");height:100%;
+height:100vh;background-size:cover;
+background-position:center;}
+ul{float:right;
+list-style-type:none;}
+ul li{display:inline-block;}
+
+ul li a{text-decoration:none;
+color:#fff;
+padding:5px 20px;border:1px solid #fff;transition:0.6s ease;}
+
+
+ul li a:hover{background-color:#fff;color:#000;}
+
+ul li.active a{background-color:#fff;color:#000;}
+
+.logo img{float:left;width:150px;height:auto;margin-left: -10%;}
+
+        .main{max-width:1200px;margin:auto;}
+.img1{position:absolute;opacity:25%;top: 30%;left:24%;BORDER-RADIUS:10PX;}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);COLOR:BROWN;BORDER:2PX SOLID WHITE;BORDER-RADIUS:15PX;PADDING:10PX;
+}
+.movie{border-radius:10px;opacity:100%;border:2px solid;margin-top:10px;margin-left:25%;box-shadow:  10px 10px 20px, skyblue 6px 6px;}
+.serv{margin-top:600px;margin-left:40%;color:blue}
+.book{border-radius:10px;opacity:100%;border:2px solid;margin-top:10px;margin-left:10%;box-shadow:  10px 10px 20px, skyblue 6px 6px;}
+.news{border-radius:10px;opacity:100%;border:2px solid;margin-top:10px;margin-left: 10%;box-shadow:  10px 10px 20px, skyblue 6px 6px;}
+.games{border-radius:10px;opacity:50%;border:2px solid;margin-top:75px;margin-left:35%;box-shadow:  10px 10px 20px, skyblue 6px 6px;}
+.booking{border-radius:10px;opacity:50%;border:2px solid;margin-top:75px;margin-left:11%;box-shadow:  10px 10px 20px, skyblue 6px 6px;}
+.IMG2{position:absolute;opacity:25%;top: 250%;left:18%;BORDER-RADIUS:15PX;BORDER:2PX SOLID BLACK}
+.cent2{
+    position: absolute;
+    top: 260%;
+    left: 50%;
+    transform: translate(-50%, -50%);BORDER:2PX SOLID;BORDER-RADIUS:15PX;PADDING:10PX;}
+.SIGN{margin-top: 500PX;MARGIN-LEFT:23%;opacity:100%;BORDER:2PX SOLID BLACK;BORDER-RADIUS:20PX;PADDING:-10%}
+.LOGIN{margin-top: 500PX;MARGIN-LEFT:8%;opacity:100%;BORDER:2PX SOLID BLACK;BORDER-RADIUS:20PX}
+.PARA{MARGIN-TOP:145PX;margin-left:600PX;}
+.BOTT{BACKGROUND-COLOR:YELLOW;margin-top: 50px;}
+.LOCT{MARGIN-LEFT:15%;MARGIN-TOP:80PX;}
+.logi{border-radius:20px;margin-top:10px;}
+.call{margin-left:290px;margin-top:10px;}
+.addr{margin-left:700px;margin-top:-50px;}
+.open{margin-left:1200px;margin-top:-50px;}
+.marque{margin-top: 20px;}
+

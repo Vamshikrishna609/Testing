@@ -1,0 +1,59 @@
+.bg {
+    background-color:;
+    background-size: cover;
+    height: 100vh;
+}
+.flex-box {
+    display: flex;
+    flex-direction: row;
+}
+.card {
+    background-color: ;
+}
+.img {
+    height: 500px;
+    width: 450px;
+    margin-top:70px;
+    margin-left: 40px;margin-right:-100px;border-radius:6px;
+}
+.main-heading {
+    font-size:55px ;
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para {
+    font-size: 35px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text-padding {
+    padding-left: 220px;
+    padding-top: 55px;
+}
+#button{
+    cursor: pointer;
+    margin: 15px;
+    font-size: 17px;
+    color: red;
+    background-color: white;
+    height: 45px;
+    width: 200px;border-radius: 6px;
+    margin-left: 25%;
+}
+#button:hover {
+    background-color: black;
+}
+#button2{
+    cursor: pointer;
+    margin: 15px;
+    font-size: 17px;
+    color: red;
+    background-color: white;border-radius: 6px;
+    height: 45px;
+    width: 125px;
+}
+#button2:hover {
+    background-color: black;
+}
+.p123{color:white;font-size:30px;color:black}
+.div{margin-left:-200%:width:400px;height:500px;margin-right:200px;}
